@@ -10,7 +10,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App >  </App>
-
   </React.StrictMode>
 );
 class Toggle extends React.Component{
